@@ -1,0 +1,2 @@
+## Fighting Jam contracts
+This repository contains the smart contracts for the FightingJam game. The game is a socialized collectible card game (CCG) that is played on the Blast blockchain. The game is currently in development and is not yet live.
